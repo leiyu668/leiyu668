@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leiyu668.
 - 👀 I’m interested in RISC-V chip designing.
-- 🌱 I’m currently learning chisel.
+- 🌱 I’m currently learning RISC-V chip designing.
 - 📫 How to reach me: dlleiyu@gmail.com
 
 <!---
